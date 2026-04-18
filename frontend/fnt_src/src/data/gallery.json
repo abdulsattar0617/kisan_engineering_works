@@ -1,0 +1,113 @@
+{
+  "categories": ["All", "Manufacturing", "Fabrication", "Projects", "Equipment", "Facilities"],
+  "images": [
+    {
+      "id": 1,
+      "src": "https://picsum.photos/seed/cnc001/800/600",
+      "thumb": "https://picsum.photos/seed/cnc001/400/300",
+      "alt": "CNC Machining Center in Operation",
+      "title": "CNC Machining Center",
+      "description": "State-of-the-art 5-axis CNC machining center producing precision components.",
+      "category": "Manufacturing"
+    },
+    {
+      "id": 2,
+      "src": "https://picsum.photos/seed/fab002/800/600",
+      "thumb": "https://picsum.photos/seed/fab002/400/300",
+      "alt": "Metal Fabrication Workshop",
+      "title": "Metal Fabrication Workshop",
+      "description": "Our fabrication team working on custom steel assemblies.",
+      "category": "Fabrication"
+    },
+    {
+      "id": 3,
+      "src": "https://picsum.photos/seed/proj003/800/600",
+      "thumb": "https://picsum.photos/seed/proj003/400/300",
+      "alt": "Industrial Steel Structure Project",
+      "title": "Industrial Steel Structure",
+      "description": "Completed structural steel project for a manufacturing facility in Pune.",
+      "category": "Projects"
+    },
+    {
+      "id": 4,
+      "src": "https://picsum.photos/seed/equip004/800/600",
+      "thumb": "https://picsum.photos/seed/equip004/400/300",
+      "alt": "Laser Cutting Machine",
+      "title": "Laser Cutting Machine",
+      "description": "High-power laser cutter for precision sheet metal cutting.",
+      "category": "Equipment"
+    },
+    {
+      "id": 5,
+      "src": "https://picsum.photos/seed/fac005/800/600",
+      "thumb": "https://picsum.photos/seed/fac005/400/300",
+      "alt": "Main Manufacturing Facility",
+      "title": "Main Manufacturing Facility",
+      "description": "Our state-of-the-art 20,000 sq.ft. manufacturing facility in MIDC Pune.",
+      "category": "Facilities"
+    },
+    {
+      "id": 6,
+      "src": "https://picsum.photos/seed/mfg006/800/600",
+      "thumb": "https://picsum.photos/seed/mfg006/400/300",
+      "alt": "Precision Turned Components",
+      "title": "Precision Turned Components",
+      "description": "High-precision turned components for automotive and industrial clients.",
+      "category": "Manufacturing"
+    },
+    {
+      "id": 7,
+      "src": "https://picsum.photos/seed/weld007/800/600",
+      "thumb": "https://picsum.photos/seed/weld007/400/300",
+      "alt": "TIG Welding Process",
+      "title": "TIG Welding Operations",
+      "description": "Certified welders performing precision TIG welding on stainless steel.",
+      "category": "Fabrication"
+    },
+    {
+      "id": 8,
+      "src": "https://picsum.photos/seed/agri008/800/600",
+      "thumb": "https://picsum.photos/seed/agri008/400/300",
+      "alt": "Agricultural Equipment Manufacturing",
+      "title": "Agricultural Equipment",
+      "description": "Custom agricultural components manufactured for irrigation system clients.",
+      "category": "Projects"
+    },
+    {
+      "id": 9,
+      "src": "https://picsum.photos/seed/cmm009/800/600",
+      "thumb": "https://picsum.photos/seed/cmm009/400/300",
+      "alt": "CMM Quality Inspection",
+      "title": "CMM Inspection Lab",
+      "description": "Coordinate Measuring Machine for dimensional inspection and quality verification.",
+      "category": "Equipment"
+    },
+    {
+      "id": 10,
+      "src": "https://picsum.photos/seed/storage010/800/600",
+      "thumb": "https://picsum.photos/seed/storage010/400/300",
+      "alt": "Raw Material Storage",
+      "title": "Material Storage Facility",
+      "description": "Well-organized raw material storage with systematic inventory management.",
+      "category": "Facilities"
+    },
+    {
+      "id": 11,
+      "src": "https://picsum.photos/seed/pump011/800/600",
+      "thumb": "https://picsum.photos/seed/pump011/400/300",
+      "alt": "Pump Manufacturing",
+      "title": "Pump Assembly Line",
+      "description": "Centrifugal pump assembly and testing line for irrigation clients.",
+      "category": "Manufacturing"
+    },
+    {
+      "id": 12,
+      "src": "https://picsum.photos/seed/struct012/800/600",
+      "thumb": "https://picsum.photos/seed/struct012/400/300",
+      "alt": "Steel Mezzanine Project",
+      "title": "Mezzanine Floor Project",
+      "description": "Completed mezzanine floor installation at a logistics warehouse, Nashik.",
+      "category": "Projects"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Head Office – Hyderabad",
+    "type": "Headquarters",
+    "address": {
+      "street": "Plot No. 45, MIDC Industrial Area, Phase II",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003",
+      "full": "Behind Step Well, Bansilalpet, Bhoiguda, Hyderabad, Secunderabad, Telangana - 500003"
+    },
+    "phone": "+91 97008 77004",
+    "phoneAlt": "040 4998 5445",
+    "email": "hyd@kisanengineering.com",
+    "workingHours": "Mon–Sat: 9:00 AM – 7:00 PM",
+    "mapUrl": "https://share.google/thfhldi6euGwDOdwQ",
+    "mapEmbed": "https://maps.google.com/maps?q=MIDC+Industrial+Area+Pune&output=embed&z=14",
+    "services": ["Precision Machining", "Metal Fabrication", "Quality Inspection", "Custom Engineering"],
+    "area": "5000 sq.ft.",
+    "established": "1995",
+    "isMain": true,
+    "description": "Our flagship facility houses the largest CNC machining center, full fabrication workshop, quality lab, and corporate offices. This is where it all started in 1995."
+  }
+]

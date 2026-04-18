@@ -1,0 +1,168 @@
+{
+  "business": {
+    "name": "Kissan Engineering Works",
+    "shortName": "KEW",
+    "tagline": "Engineering Excellence, Built to Last",
+    "description": "Pioneering precision engineering solutions with over two decades of expertise in manufacturing, fabrication, and industrial services. We deliver quality you can count on.",
+    "founded": "1995",
+    "experience": "31+",
+    "projects": "500+",
+    "clients": "200+",
+    "employees": "15+",
+    "email": "kissanengg9860@gmail.com",
+    "emailAlt": "muzammil9860@gmail.com",
+    "phone": "040 4998 5445",
+    "phoneAlt": "+91 9700877004",
+    "whatsapp": "919700877004",
+    "address": {
+      "street": "Bansilalpet, Bhoiguda, Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500003",
+      "country": "India",
+      "full": "Behind Step Well, Bansilalpet, Bhoiguda, Hyderabad, Secunderabad, Telangana 500003"
+    },
+    "googleMapsUrl": "https://share.google/thfhldi6euGwDOdwQ",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d237.91316431142909!2d78.493874!3d17.430464!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9b5bf288a19f%3A0x6684f0f0b0c61d6f!2sKissan%20Engineering%20Work%20-%20Crompton%20Service%20Centre!5e0!3m2!1sen!2sin!4v1776538410504!5m2!1sen!2sin",
+    "workingHours": {
+      "weekdays": "MON – SAT: 10:00 AM – 8:00 PM",
+      "sunday": "Sunday: Closed",
+      "emergency": "Emergency Support: 24/7"
+    },
+    "social": {
+      "facebook": "https://facebook.com/kisanengineering",
+      "instagram": "https://instagram.com/kisanengineering",
+      "linkedin": "https://linkedin.com/company/kisanengineering",
+      "youtube": "https://youtube.com/@kisanengineering",
+      "twitter": ""
+    }
+  },
+  "navigation": [
+    { "label": "Home",     "path": "/" },
+    { "label": "About",    "path": "/about" },
+    { "label": "Services", "path": "/services" },
+    { "label": "Gallery",  "path": "/gallery" },
+    { "label": "Team",     "path": "/team" },
+    { "label": "Branches", "path": "/branches" },
+    { "label": "Contact",  "path": "/contact" }
+  ],
+  "hero": {
+    "badge": "Authorized",
+    "title": "Engineering",
+    "titleAccent": "Excellence",
+    "subtitle": "Built to Last",
+    "description": "Kisan Engineering Works delivers precision-engineered solutions for industrial, agricultural, and commercial sectors. Trusted by 200+ clients across India since 1995.",
+    "cta": {
+      "primary":   { "text": "Explore Services", "link": "/services" },
+      "secondary": { "text": "Get a Quote",      "link": "/contact" }
+    },
+    "highlights": [
+      { "icon": "award",   "text": "Crompton" },
+      { "icon": "clock",   "text": "On-Time Delivery" },
+      { "icon": "shield",  "text": "2-Year Warranty" }
+    ]
+  },
+  "stats": [
+    { "value": "31",  "suffix": "+", "label": "Years of Experience",   "icon": "calendar" },
+    { "value": "500", "suffix": "+", "label": "Projects Completed",    "icon": "briefcase" },
+    { "value": "200", "suffix": "+", "label": "Happy Clients",         "icon": "users" },
+    { "value": "15", "suffix": "+", "label": "Skilled Team Members",  "icon": "hardhat" }
+  ],
+  "certifications": [
+    { "name": "Havells Authorized", "description": "Havells" },
+    { "name": "CG Autorized Certified",  "description": "CG Power and Industrial Solutions" },
+    { "name": "Crompton Greaves Authorized",  "description": "Crompton Greaves" },
+    { "name": "MSME Registered", "description": "Micro, Small & Medium Enterprise" }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "precision",
+      "title": "Precision Engineering",
+      "description": "State-of-the-art CNC machinery and skilled operators ensuring tolerances as tight as ±0.001mm for every component."
+    },
+    {
+      "icon": "time",
+      "title": "On-Time Delivery",
+      "description": "We understand your production timelines. Our streamlined processes guarantee delivery on schedule, every time."
+    },
+    {
+      "icon": "quality",
+      "title": "Unmatched Quality",
+      "description": "Rigorous QC at every stage — from raw material inspection to final product testing — backed by ISO 9001:2015 certification."
+    },
+    {
+      "icon": "custom",
+      "title": "Custom Solutions",
+      "description": "Every client gets tailored engineering solutions. Our design team works closely with you from concept to completion."
+    },
+    {
+      "icon": "support",
+      "title": "24/7 Support",
+      "description": "Round-the-clock technical support and after-sales service. We're with you at every step of your operational journey."
+    },
+    {
+      "icon": "price",
+      "title": "Competitive Pricing",
+      "description": "Premium quality at fair pricing. We optimize our processes to deliver maximum value without compromising on standards."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "company": "AgriTech Industries Pvt. Ltd.",
+      "role": "Operations Director",
+      "avatar": "RK",
+      "text": "Kisan Engineering Works has been our trusted manufacturing partner for over a decade. Their precision machining and timely delivery have significantly improved our production efficiency. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "company": "Maharashtra Steel Corporation",
+      "role": "Procurement Manager",
+      "avatar": "PS",
+      "text": "Exceptional quality and professional service at every interaction. The team at Kisan Engineering understands our requirements perfectly and always delivers beyond expectations. True engineering partners.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Amit Patel",
+      "company": "Sunrise Irrigation Ltd.",
+      "role": "Technical Head",
+      "avatar": "AP",
+      "text": "We've partnered with Kisan Engineering for our custom fabrication needs. Their engineering expertise, attention to detail, and commitment to quality are truly unmatched in the industry.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Sunil Deshmukh",
+      "company": "Pune Agro Machinery",
+      "role": "CEO",
+      "avatar": "SD",
+      "text": "Outstanding fabrication work and excellent after-sales support. Kisan Engineering has helped us scale our manufacturing capacity while maintaining world-class quality standards.",
+      "rating": 5
+    }
+  ],
+  "about": {
+    "story": "Founded in 1995 by Mohammed Muzammil, Kisan Engineering Works began as a small precision machining unit in Hyderabad. Over the years, we have grown into a full-service engineering company serving clients across automotive, agriculture, construction, and industrial sectors.",
+    "mission": "To deliver precision-engineered solutions that drive industrial growth, empower agricultural productivity, and build a sustainable future through innovation, quality, and client-centric service.",
+    "vision": "To be India's most trusted engineering partner, recognized globally for precision, reliability, and technological excellence.",
+    "values": [
+      { "title": "Quality First",    "description": "We never compromise on quality — it's the cornerstone of every product we deliver." },
+      { "title": "Innovation",       "description": "Continuously investing in new technologies and processes to stay ahead." },
+      { "title": "Integrity",        "description": "Transparent business practices and honest relationships with every stakeholder." },
+      { "title": "Customer Focus",   "description": "Understanding and exceeding client expectations is our primary goal." },
+      { "title": "Sustainability",   "description": "Responsible manufacturing with minimal environmental footprint." },
+      { "title": "Teamwork",         "description": "A skilled, motivated team that collaborates to deliver exceptional results." }
+    ],
+    "milestones": [
+      { "year": "1995", "event": "Founded by Mohammed Muzammil in Hyderabad, Telangana" },
+      { "year": "2000", "event": "Expanded to metal fabrication and welding services" },
+      { "year": "2015", "event": "Achieved Crompton Best Service Award" },
+      { "year": "2017", "event": "Achieved CG Power Best Service Award" }, 
+      { "year": "2020", "event": "Achieved Havells Best Service Award" }, 
+      { "year": "2026", "event": "Serving 200+ clients with 15+ skilled professionals" }
+    ]
+  }
+}

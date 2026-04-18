@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Imran",
+    "role": "Service Head",
+    "department": "Leadership",
+    "bio": "With over 30 years in precision engineering, Mr. Imran founded KEW in 1995 with a vision to deliver world-class engineering solutions. His hands-on leadership and deep technical expertise have shaped the company into a trusted industry name.",
+    "experience": "30+ Years",
+    "education": "Technical",
+    "expertise": ["Business Strategy", "Precision Machining", "Operations Management"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Arfat Khan",
+    "role": "General Manager",
+    "department": "Leadership",
+    "bio": "Arfat drives day-to-day operations with a focus on efficiency and quality. He holds an MBA in Operations and has implemented lean manufacturing practices that improved productivity by 40% across all facilities.",
+    "experience": "8 Years",
+    "education": "MBA",
+    "expertise": ["Operations Management", "Lean Manufacturing", "Supply Chain"],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Aqil Ahmed",
+    "role": "CCO",
+    "department": "Engineering",
+    "bio": "Aqil leads our engineering division with deep expertise in CNC machining and precision manufacturing. He has designed over 200 custom components and holds certifications in advanced CAD/CAM systems.",
+    "experience": "8 Years",
+    "education": "Mechanical Engineer",
+    "expertise": ["CNC Machining", "CAD/CAM", "Structural Design"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Md. Adil",
+    "role": "Purchaser",
+    "department": "Quality",
+    "bio": "Adil established and runs our ISO-certified quality management system. Her meticulous approach to QC has achieved a defect rate below 0.2%. She's a certified quality auditor with expertise in lean Six Sigma.",
+    "experience": "3 Years",
+    "education": "Technical",
+    "expertise": ["Quality Management",  "Six Sigma"],
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Mahesh",
+    "role": "Senior Winder",
+    "department": "Repairing",
+    "bio": "Mahesh oversees production scheduling and floor operations across all manufacturing units. His expertise in workflow optimization has reduced lead times by 30% while maintaining quality standards.",
+    "experience": "20 Years",
+    "education": "Engineering",
+    "expertise": ["Production Planning", "Workflow Optimization", "Team Leadership"],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Md. Nayeem",
+    "role": "Fitter",
+    "department": "Repairing",
+    "bio": "Nayeem has built strong client relationships across Hyderabad and beyond. He manages key accounts and business development, contributing to a 35% growth in client base over the last 4 years.",
+    "experience": "20 Years",
+    "education": "Technical",
+    "expertise": ["Key Account Management", "Business Development", "Client Relations"],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Khwaja Khan",
+    "role": "Senior Winder",
+    "department": "Engineering",
+    "bio": "Khwaja is a master CNC operator with expertise in 5-axis machining. He has worked on complex aerospace and automotive components requiring precision to micron levels.",
+    "experience": "18 Years",
+    "education": "Technical",
+    "expertise": ["5-Axis CNC", "Precision Turning", "Aerospace Components"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Ramachari",
+    "role": "Senior Winder",
+    "department": "Repairing",
+    "bio": "Ramachari specializes in structural steel fabrication and welding. He is a certified welding inspector and has overseen fabrication projects for major industrial and infrastructure clients.",
+    "experience": "18 Years",
+    "education": "Technical",
+    "expertise": ["Steel Fabrication", "Welding Inspection", "Structural Engineering"],
+    "featured": false
+  }
+]
