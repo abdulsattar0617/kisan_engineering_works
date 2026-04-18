@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "slug": "precision-machining",
+    "title": "Precision Machining",
+    "shortDescription": "CNC machining for complex components with tolerances as tight as ±0.001mm.",
+    "description": "Our precision machining division utilizes advanced 3-axis and 5-axis CNC machining centers to manufacture complex components with exceptional accuracy. We handle everything from prototype development to high-volume production runs, ensuring every component meets exact specifications.",
+    "icon": "Settings",
+    "category": "Manufacturing",
+    "featured": true,
+    "image": "https://picsum.photos/seed/machining/600/400",
+    "features": [
+      "CNC Turning & Milling",
+      "Tolerances to ±0.001mm",
+      "5-Axis Machining",
+      "Reverse Engineering",
+      "Prototype to Production",
+      "Material: Steel, Aluminum, Brass, Titanium"
+    ],
+    "applications": ["Automotive", "Aerospace", "Agriculture", "Industrial"],
+    "turnaround": "5–15 business days"
+  },
+  {
+    "id": 2,
+    "slug": "metal-fabrication",
+    "title": "Metal Fabrication & Welding",
+    "shortDescription": "Custom metal fabrication including laser cutting, bending, and welding.",
+    "description": "Full-service metal fabrication from design to finished product. Our fabrication facility is equipped with laser cutters, press brakes, MIG/TIG welders, and finishing equipment. We fabricate structural components, enclosures, frames, and custom assemblies to your exact specifications.",
+    "icon": "Wrench",
+    "category": "Fabrication",
+    "featured": true,
+    "image": "https://picsum.photos/seed/fabrication/600/400",
+    "features": [
+      "Laser Cutting (up to 25mm)",
+      "MIG / TIG Welding",
+      "CNC Press Brake Bending",
+      "Pipe & Sheet Fabrication",
+      "Powder Coating & Finishing",
+      "Stainless, MS, Aluminum, SS"
+    ],
+    "applications": ["Construction", "Agriculture", "Automotive", "Industrial"],
+    "turnaround": "7–21 business days"
+  },
+  {
+    "id": 3,
+    "slug": "agricultural-equipment",
+    "title": "Agricultural Equipment Manufacturing",
+    "shortDescription": "Custom agricultural machinery and components designed for Indian farming needs.",
+    "description": "Kisan Engineering Works specializes in designing and manufacturing robust agricultural equipment tailored for Indian farming conditions. From irrigation systems to harvesting attachments, we build machinery that enhances farm productivity and reduces manual labor.",
+    "icon": "Tractor",
+    "category": "Agriculture",
+    "featured": true,
+    "image": "https://picsum.photos/seed/agriculture/600/400",
+    "features": [
+      "Irrigation Pump Assemblies",
+      "Cultivator Blades & Tines",
+      "Thresher Components",
+      "Seed Drill Parts",
+      "Custom Farm Implements",
+      "Durable Coatings for Field Use"
+    ],
+    "applications": ["Farming", "Irrigation", "Harvesting", "Soil Preparation"],
+    "turnaround": "10–30 business days"
+  },
+  {
+    "id": 4,
+    "slug": "structural-steel",
+    "title": "Structural Steel Works",
+    "shortDescription": "Heavy structural steel fabrication for industrial and commercial projects.",
+    "description": "Our structural division handles large-scale steel fabrication projects including industrial sheds, mezzanine floors, walkways, support structures, and custom steel assemblies. We provide complete turnkey solutions from design, fabrication to installation.",
+    "icon": "Building2",
+    "category": "Structural",
+    "featured": false,
+    "image": "https://picsum.photos/seed/structural/600/400",
+    "features": [
+      "Industrial Shed Structures",
+      "Mezzanine Floors",
+      "Stairways & Walkways",
+      "Support & Mounting Structures",
+      "Pipe Racks & Cable Trays",
+      "Galvanizing & Anti-corrosion Coating"
+    ],
+    "applications": ["Industrial", "Warehousing", "Commercial", "Infrastructure"],
+    "turnaround": "15–45 business days"
+  },
+  {
+    "id": 5,
+    "slug": "pump-valve-manufacturing",
+    "title": "Pump & Valve Manufacturing",
+    "shortDescription": "Precision-engineered pumps and valves for irrigation and industrial use.",
+    "description": "We manufacture a comprehensive range of centrifugal pumps, submersible pumps, industrial valves, and flow control equipment. Our pump and valve division serves water management, irrigation, and industrial fluid handling markets with reliable, high-performance products.",
+    "icon": "Gauge",
+    "category": "Manufacturing",
+    "featured": false,
+    "image": "https://picsum.photos/seed/pumps/600/400",
+    "features": [
+      "Centrifugal Pumps (0.5–50 HP)",
+      "Submersible Pumps",
+      "Gate & Globe Valves",
+      "Pressure Relief Valves",
+      "Custom Impeller Design",
+      "BIS & ISO Certified Products"
+    ],
+    "applications": ["Irrigation", "Water Supply", "Industrial", "Agriculture"],
+    "turnaround": "10–20 business days"
+  },
+  {
+    "id": 6,
+    "slug": "industrial-maintenance",
+    "title": "Industrial Maintenance & Repair",
+    "shortDescription": "Comprehensive maintenance, overhauling, and repair services for industrial machinery.",
+    "description": "Keep your production lines running at peak efficiency with our industrial maintenance and repair services. Our certified technicians handle preventive maintenance, emergency repairs, machine overhauling, and spare parts fabrication. We minimize downtime and extend equipment life.",
+    "icon": "Tool",
+    "category": "Services",
+    "featured": false,
+    "image": "https://picsum.photos/seed/maintenance/600/400",
+    "features": [
+      "Preventive Maintenance Programs",
+      "Emergency Breakdown Repair",
+      "Machine Overhauling",
+      "Spare Parts Fabrication",
+      "Alignment & Balancing",
+      "24/7 On-Site Support"
+    ],
+    "applications": ["Manufacturing Plants", "Agro Industries", "Textiles", "Automotive"],
+    "turnaround": "Same day – 5 business days"
+  },
+  {
+    "id": 7,
+    "slug": "quality-inspection",
+    "title": "Quality Inspection & Testing",
+    "shortDescription": "Third-party quality inspection and dimensional verification services.",
+    "description": "Our quality inspection laboratory is equipped with CMM machines, hardness testers, surface roughness testers, and NDT equipment. We offer comprehensive inspection services including dimensional verification, material testing, surface quality assessment, and full inspection reports.",
+    "icon": "ClipboardCheck",
+    "category": "Services",
+    "featured": false,
+    "image": "https://picsum.photos/seed/quality/600/400",
+    "features": [
+      "CMM Dimensional Inspection",
+      "Surface Roughness Testing",
+      "Hardness Testing (Rockwell / Brinell)",
+      "NDT (Ultrasonic & Dye Penetrant)",
+      "Material Composition Analysis",
+      "Detailed Inspection Reports"
+    ],
+    "applications": ["Automotive", "Aerospace", "Defense", "General Engineering"],
+    "turnaround": "2–7 business days"
+  },
+  {
+    "id": 8,
+    "slug": "custom-engineering",
+    "title": "Custom Engineering Solutions",
+    "shortDescription": "End-to-end design and manufacture of custom engineered products and systems.",
+    "description": "From concept to production, our engineering team provides complete custom solutions. We handle product design, prototyping, testing, and full-scale manufacturing. Ideal for companies needing unique products that aren't available off the shelf — we turn your engineering challenges into reliable solutions.",
+    "icon": "Cpu",
+    "category": "Design",
+    "featured": true,
+    "image": "https://picsum.photos/seed/custom/600/400",
+    "features": [
+      "CAD / CAM Design",
+      "Rapid Prototyping",
+      "Design for Manufacturing (DFM)",
+      "Value Engineering",
+      "Small to Large Volume Production",
+      "Patent-Compliant Design"
+    ],
+    "applications": ["All Industries", "R&D", "Startups", "OEMs"],
+    "turnaround": "Varies by complexity"
+  }
+]

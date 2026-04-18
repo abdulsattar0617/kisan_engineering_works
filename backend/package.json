@@ -1,0 +1,25 @@
+{
+  "name": "kisan-engineering-works-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Kisan Engineering Works",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start":     "node src/app.js",
+    "dev":       "nodemon src/app.js",
+    "dev:watch": "nodemon --watch src src/app.js"
+  },
+  "dependencies": {
+    "cors":              "^2.8.5",
+    "dotenv":            "^16.4.5",
+    "express":           "^4.18.3",
+    "express-validator": "^7.0.1",
+    "helmet":            "^7.1.0",
+    "morgan":            "^1.10.0",
+    "nodemailer":        "^6.9.12",
+    "rate-limiter-flexible": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
