@@ -4,6 +4,7 @@ import axios from 'axios';
 import PageHeader from '../components/ui/PageHeader';
 import SectionTitle from '../components/ui/SectionTitle';
 import config from '../data/config.json';
+import api from '../lib/api';
 
 const initialForm = {
   name: '', email: '', phone: '', company: '', service: '', message: '',
@@ -43,7 +44,8 @@ export default function Contact() {
 
     setStatus('loading');
     try {
-      await axios.post('/api/contact', form);
+      // await axios.post('/api/contact', form);
+      await api.post('/contact', form); // Using api instance with baseURL
       setStatus('success');
       setForm(initialForm);
     } catch {
